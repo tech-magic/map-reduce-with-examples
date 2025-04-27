@@ -13,11 +13,11 @@ mindmap
     Purpose
       Distribute computing across multiple machines
     Core Concepts
-      Map
+      1.Map
         Emit Key-Value Pairs
-      Shuffle
+      2.Shuffle
         Group by Key
-      Reduce
+      3.Reduce
         Aggregate or Summarize
     Benefits
       Scalable
@@ -25,7 +25,7 @@ mindmap
       Parallel Processing
 ```
 
-MapReduce is a programming model for processing large datasets using parallel, distributed algorithms. It simplifies data analysis by breaking it into small, manageable tasks.
+MapReduce is a programming model for processing large datasets using parallel, distributed algorithms. It simplifies data analysis by breaking it into small, manageable tasks those could be executed in parallel (in multiple computers if required).
 
 ---
 
